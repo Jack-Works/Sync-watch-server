@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@types/node": "^10.12.24",
-    "gun": "^0.9.9999991",
+    "gun": "^0.2019.416",
     "serve-static": "^1.13.2",
     "ts-node": "^8.0.2",
     "typescript": "^3.3.3"
